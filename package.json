@@ -1,0 +1,14 @@
+{
+  "name": "google-calendar-envents",
+  "version": "1.0.0",
+  "description": "Adds events to google calendar",
+  "main": "index.js",
+  "author": "Anudeep Potlapally <anudeep.potlapally@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "google-auth-library": "^0.11.0",
+    "googleapis": "^22.2.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1"
+  }
+}
